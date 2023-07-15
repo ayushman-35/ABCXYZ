@@ -35,7 +35,7 @@ def elapsedtime(stime,etime):
     time=etime-stime
     return time
 if __name__=='__main__':
-    prompt="Track your progress with the free  program here at W3Schools.Log into your account, and start earning points!This is an optional feature. You can study W3Schools without using My Learning.."
+    prompt="Track your progress with the free  program here, and start earning points!This is an optional feature. You can study W3Schools without using My Learning.."
     print("TYPE THIS :- ",prompt,"")
     input("press enter when you are ready to check your speed ")
     stime=time()
